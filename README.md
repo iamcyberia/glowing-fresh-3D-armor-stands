@@ -5,12 +5,12 @@
 <hr>
 
 <p align="center">
-<img width="500" src="https://github.com/user-attachments/assets/44780c6c-4cec-4bee-8267-967f358a8f2e" />
-</p>
-
-<p align="center">
   <img width="500px" src="https://github.com/user-attachments/assets/1662386b-0f96-436b-97d5-7ead8602adee" alt="animated" />
 </p><br/>
+
+<p align="center">
+<img width="500" src="https://github.com/user-attachments/assets/44780c6c-4cec-4bee-8267-967f358a8f2e" />
+</p>
 
 <table align="center" style="width:100%">
   <tr>
@@ -100,65 +100,65 @@
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Sunny" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Sunny", "Wide sunny", "wide sunny", "wide Sunny"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Sunny" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Sunny", "Slim sunny", "slim sunny", "slim Sunny"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Kai" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Kai", "Wide kai", "wide kai", "wide Kai"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Kai" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Kai", "Slim kai", "slim kai", "slim Kai"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Makena" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Makena", "Wide makena", "wide makena", "wide Makena"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Makena" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Makena", "Slim makena", "slim makena", "slim Makena"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Steve" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Steve", "Wide steve", "wide steve", "wide Steve"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Steve" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Steve", "Slim steve", "slim steve", "slim Steve"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Alex" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Alex", "Wide alex", "wide alex", "wide Alex"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Alex" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Alex", "Slim alex", "slim alex", "slim Alex"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Zuri" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Zuri", "Wide zuri", "wide zuri", "wide Zuri"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Zuri" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Zuri", "Slim zuri", "slim zuri", "slim Zuri"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Efe" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Efe", "Wide efe", "wide efe", "wide Efe"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Efe" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Efe", "Slim efe", "slim efe", "slim Efe"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Ari" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Ari", "Wide ari", "wide ari", "wide Ari"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Ari" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Ari", "Slim ari", "slim ari", "slim Ari"</td>
   </tr>
 
   <tr>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Wide Noor" src="https://github.com/user-attachments/assets/5d3ce4ad-f777-433c-8b5f-fe37ab564bc8" /></td>
     <td>"Wide Noor", "Wide noor", "wide noor", "wide Noor"</td>
-    <td>image</td>
+    <td><img width="100" height="100" alt="Slim Noor" src="https://github.com/user-attachments/assets/7c0df7a0-0371-4010-b9bc-b7bd7b6bbb01" /></td>
     <td>"Slim Noor", "Slim noor", "slim noor", "slim Noor"</td>
   </tr>
 </table>
