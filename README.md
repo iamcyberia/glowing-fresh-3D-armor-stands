@@ -2,7 +2,6 @@
   <img src="https://files.catbox.moe/yqih42.png" width="700"/>
 </p>
 
-
 <hr>
 
 <img width="2001" height="99" alt="Nameable" src="https://github.com/user-attachments/assets/21f8cc41-d27f-4a2b-b071-8d250949739a" /> <br/>
@@ -45,39 +44,43 @@
     <td>"Taiga Villager / taiga villager / Taiga villager / taiga Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Zombie Villager" src="" /></td>
+    <td><img width="100" height="100" alt="Zombie Villager" src="https://github.com/user-attachments/assets/3b31ae00-dde1-403f-8e90-84729247854f" /></td>
     <td>"Zombie Villager / zombie villager / Zombie villager / zombie Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Witch" src="" /></td>
+    <td><img width="100" height="100" alt="Witch" src="https://github.com/user-attachments/assets/148548b8-626d-4d5d-90a2-f25a872c52f3" /></td>
     <td>"Witch / witch" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Evoker" src="" /></td>
+    <td><img width="100" height="100" alt="Evoker" src="https://github.com/user-attachments/assets/8a79d16f-3c76-4fcb-8b96-e4a953a67fd5" /></td>
     <td>"Evoker / evoker" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Piglin" src="" /></td>
+    <td><img width="100" height="100" alt="Piglin" src="https://github.com/user-attachments/assets/e043fbc3-862e-4f5d-9bdd-f8aca91f7eac" /></td>
     <td>"Piglin / piglin" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Piglin Brute" src="" /></td>
+    <td><img width="100" height="100" alt="Piglin Brute" src="https://github.com/user-attachments/assets/43b7ae9e-5ec6-46c4-8ffd-906ca4bbf8d7" /></td>
     <td>"Piglin Brute / piglin brute / Piglin brute / piglin Brute" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Zombified Piglin" src="" /></td>
+    <td><img width="100" height="100" alt="Zombified Piglin" src="https://github.com/user-attachments/assets/00d2e73e-9add-42ed-bdd7-fb89d4fb81b5" /></td>
     <td>"Zombified Piglin / zombified piglin / Zombified piglin / zombified Piglin" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Skeleton" src="" /></td>
+    <td><img width="100" height="100" alt="Skeleton" src="https://github.com/user-attachments/assets/02db99f1-6a7d-43af-baf8-f92441b9c2f0" /></td>
     <td>"Skeleton / skeleton" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="Wither Skeleton" src="" /></td>
+    <td><img width="100" height="100" alt="Wither Skeleton" src="https://github.com/user-attachments/assets/a9f73185-e0a6-45a8-aa61-e70187eb3a7a" /></td>
     <td>"Wither Skeleton / wither skeleton / Wither skeleton / wither Skeleton" </td>
   </tr>
+    <tr>
+    <td><img width="100" height="100" alt="Zombie" src="https://github.com/user-attachments/assets/ce0c8d44-c0dc-44fe-a24d-f2f1975a2edc" /></td>
+    <td>"Zombie / zombie" </td>
+  </tr>
   <tr>
-    <td><img width="100" height="100" alt="Husk" src="" /></td>
+    <td><img width="100" height="100" alt="Husk" src="https://github.com/user-attachments/assets/0054cf90-09a6-4463-a36f-c37cb46484d2" /></td>
     <td>"Husk / husk" </td>
   </tr>
 </table>
