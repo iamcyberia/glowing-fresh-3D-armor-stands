@@ -121,7 +121,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/desert_villager_stand"
+          "model": "item/type/desert"
+        }
+      },
+      {
+        "when": [
+          "desert Villager farmer",
+          "Desert Villager farmer",
+          "desert villager farmer",
+          "Desert villager farmer",
+          "desert Villager Farmer",
+          "Desert Villager Farmer",
+          "desert villager Farmer",
+          "Desert villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/desert"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -133,7 +158,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/jungle_villager_stand"
+          "model": "item/type/jungle"
+        }
+      },
+      {
+        "when": [
+          "jungle Villager farmer",
+          "Jungle Villager farmer",
+          "jungle villager farmer",
+          "Jungle villager farmer",
+          "jungle Villager Farmer",
+          "Jungle Villager Farmer",
+          "jungle villager Farmer",
+          "Jungle villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/jungle"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -145,7 +195,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/plains_villager_stand"
+          "model": "item/type/plains"
+        }
+      },
+      {
+        "when": [
+          "plains Villager farmer",
+          "Plains Villager farmer",
+          "plains villager farmer",
+          "Plains villager farmer",
+          "plains Villager Farmer",
+          "Plains Villager Farmer",
+          "plains villager Farmer",
+          "Plains villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/plains"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -157,7 +232,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/savanna_villager_stand"
+          "model": "item/type/savanna"
+        }
+      },
+      {
+        "when": [
+          "savanna Villager farmer",
+          "Savanna Villager farmer",
+          "savanna villager farmer",
+          "Savanna villager farmer",
+          "savanna Villager Farmer",
+          "Savanna Villager Farmer",
+          "savanna villager Farmer",
+          "Savanna villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/savanna"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -169,7 +269,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/snow_villager_stand"
+          "model": "item/type/snow"
+        }
+      },
+      {
+        "when": [
+          "snow Villager farmer",
+          "Snow Villager farmer",
+          "snow villager farmer",
+          "Snow villager farmer",
+          "snow Villager Farmer",
+          "Snow Villager Farmer",
+          "snow villager Farmer",
+          "Snow villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/snow"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -181,7 +306,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/swamp_villager_stand"
+          "model": "item/type/swamp"
+        }
+      },
+      {
+        "when": [
+          "swamp Villager farmer",
+          "Swamp Villager farmer",
+          "swamp villager farmer",
+          "Swamp villager farmer",
+          "swamp Villager Farmer",
+          "Swamp Villager Farmer",
+          "swamp villager Farmer",
+          "Swamp villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/swamp"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -193,7 +343,32 @@
         ],
         "model": {
           "type": "minecraft:model",
-          "model": "item/taiga_villager_stand"
+          "model": "item/type/taiga"
+        }
+      },
+      {
+        "when": [
+          "taiga Villager farmer",
+          "Taiga Villager farmer",
+          "taiga villager farmer",
+          "Taiga villager farmer",
+          "taiga Villager Farmer",
+          "Taiga Villager Farmer",
+          "taiga villager Farmer",
+          "Taiga villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/type/taiga"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {
@@ -206,6 +381,31 @@
         "model": {
           "type": "minecraft:model",
           "model": "item/zombie_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "zombie Villager farmer",
+          "Zombie Villager farmer",
+          "zombie villager farmer",
+          "Zombie villager farmer",
+          "zombie Villager Farmer",
+          "Zombie Villager Farmer",
+          "zombie villager Farmer",
+          "Zombie villager Farmer"
+        ],
+        "model": {
+          "type": "minecraft:composite",
+          "models": [
+            {
+              "type": "minecraft:model",
+              "model": "item/zombie_villager_stand"
+            },
+            {
+              "type": "minecraft:model",
+              "model": "item/profession/farmer"
+            }
+          ]
         }
       },
       {

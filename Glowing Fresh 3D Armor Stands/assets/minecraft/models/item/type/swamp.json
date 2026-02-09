@@ -3,7 +3,7 @@
 	"credit": "cyberia was here",
 	"parent": "minecraft:item/villager_stand",
 	"textures": {
-		"2": "item/plains_villager_stand",
-		"particle": "item/plains_villager_stand"
+		"particle": "item/type/swamp",
+		"villager_stands": "item/type/swamp"
 	}
 }
