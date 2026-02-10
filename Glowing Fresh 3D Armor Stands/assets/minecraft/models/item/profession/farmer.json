@@ -22,9 +22,9 @@
 		},
 		{
 			"name": "rim",
-			"from": [2.5, 16, 2.5],
-			"to": [13.5, 16, 13.5],
-			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16, 8]},
+			"from": [2.5, 15.75, 2.5],
+			"to": [13.5, 15.75, 13.5],
+			"rotation": {"angle": 5, "axis": "x", "origin": [8, 15.75, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 5.5, 0], "texture": "#2"},
 				"east": {"uv": [0, 0, 5.5, 0], "texture": "#2"},
@@ -48,12 +48,12 @@
 			"scale": [0.52, 0.52, 0.52]
 		},
 		"firstperson_righthand": {
-			"rotation": [-22.5, 130, 22.5],
+			"rotation": [163.23, 65.28, -166.05],
 			"translation": [0.25, 4.25, 2],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-22.5, 130, 22.5],
+			"rotation": [163.23, 65.28, -166.05],
 			"translation": [0.25, 4.25, 2],
 			"scale": [0.4, 0.4, 0.4]
 		},
