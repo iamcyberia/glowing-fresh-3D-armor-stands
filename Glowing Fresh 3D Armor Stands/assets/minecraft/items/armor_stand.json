@@ -136,17 +136,42 @@
           "Desert villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/desert"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/desert"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/desert"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -173,17 +198,42 @@
           "Jungle villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/jungle"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/jungle"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/jungle"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -210,17 +260,42 @@
           "Plains villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/plains"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/plains"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/plains"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -247,17 +322,42 @@
           "Savanna villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/savanna"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/savanna"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/savanna"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -284,17 +384,42 @@
           "Snow villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/snow"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/snow"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/snow"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -321,17 +446,42 @@
           "Swamp villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/swamp"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/swamp"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/swamp"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -358,17 +508,42 @@
           "Taiga villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/type/taiga"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/type/taiga"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/type/taiga"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
@@ -395,17 +570,42 @@
           "Zombie villager Farmer"
         ],
         "model": {
-          "type": "minecraft:composite",
-          "models": [
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
             {
-              "type": "minecraft:model",
-              "model": "item/zombie_villager_stand"
-            },
-            {
-              "type": "minecraft:model",
-              "model": "item/profession/farmer"
+              "when": [
+                "firstperson_righthand",
+                "firstperson_lefthand"
+              ],
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/zombie_villager_stand"
+                  },
+                  {
+                    "type": "minecraft:model",
+                    "model": "item/profession/farmer_first"
+                  }
+                ]
+              }
             }
-          ]
+          ],
+          "fallback": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "item/zombie_villager_stand"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "item/profession/farmer_third"
+              }
+            ]
+          }
         }
       },
       {
