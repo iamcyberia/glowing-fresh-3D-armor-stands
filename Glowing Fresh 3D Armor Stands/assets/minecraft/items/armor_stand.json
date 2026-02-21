@@ -693,6 +693,18 @@
           "type": "minecraft:model",
           "model": "item/husk_stand"
         }
+      },
+      {
+        "when": [
+          "drowned stand",
+          "Drowned Stand",
+          "Drowned stand",
+          "drowned Stand"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/drowned_stand"
+        }
       }
     ],
     "fallback": {
