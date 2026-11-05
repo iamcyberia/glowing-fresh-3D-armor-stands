@@ -1,0 +1,175 @@
+{
+	"credit": "TIXUL",
+	"textureSize": [128, 128],
+	"texture": "textures/entity/armorstand/wood42.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -23, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"submodels": [
+				{
+					"id": "torso",
+					"invertAxis": "xy",
+					"translate": [0, 21, -1],
+					"boxes": [
+						{"coordinates": [-9, -8, -4, 18, 21, 11], "textureOffset": [0, 0]}
+					],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 13, 0],
+							"boxes": [
+								{"coordinates": [-8, 0, -5, 16, 16, 10], "textureOffset": [0, 32]}
+							],
+							"submodels": [
+								{
+									"id": "left_tendril2",
+									"invertAxis": "xy",
+									"translate": [-8, 12, 1],
+									"boxes": [
+										{"coordinates": [-16, -3, 0, 16, 16, 0], "textureOffset": [58, 0]}
+									]
+								},
+								{
+									"id": "right_tendril2",
+									"invertAxis": "xy",
+									"translate": [8, 12, 1],
+									"boxes": [
+										{"coordinates": [0, -3, 0, 16, 16, 0], "textureOffset": [52, 32]}
+									]
+								}
+							]
+						},
+						{
+							"id": "left_ribcage2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [-7, 2, -4],
+							"boxes": [
+								{"coordinates": [-2, -10, -0.1, 9, 21, 0], "textureOffset": [90, 11]}
+							]
+						},
+						{
+							"id": "right_ribcage2",
+							"invertAxis": "xy",
+							"translate": [7, 2, -4],
+							"boxes": [
+								{"coordinates": [-7, -10, -0.1, 9, 21, 0], "textureOffset": [90, 11]}
+							]
+						},
+						{
+							"id": "left_arm2",
+							"invertAxis": "xy",
+							"translate": [-9, 13, 1],
+							"boxes": [
+								{"coordinates": [-8, -28, -4, 8, 28, 8], "textureOffset": [0, 58]}
+							]
+						},
+						{
+							"id": "right_arm2",
+							"invertAxis": "xy",
+							"translate": [9, 13, 1],
+							"boxes": [
+								{"coordinates": [0, -28, -4, 8, 28, 8], "textureOffset": [44, 50]}
+							]
+						},
+						{
+							"id": "left_leg2",
+							"invertAxis": "xy",
+							"translate": [-6, -8, 0],
+							"boxes": [
+								{"coordinates": [-3.1, -13, -3, 6, 13, 6], "textureOffset": [76, 76]}
+							]
+						},
+						{
+							"id": "right_leg2",
+							"invertAxis": "xy",
+							"translate": [6, -8, 0],
+							"boxes": [
+								{"coordinates": [-2.9, -13, -3, 6, 13, 6], "textureOffset": [76, 48]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"head2.rx": "head.rx",
+					"head2.ry": "head.ry",
+					"head2.rz": "head.rz",
+					"left_arm2.rx": "left_arm.rx",
+					"left_arm2.ry": "left_arm.ry",
+					"left_arm2.rz": "left_arm.rz",
+					"right_arm2.rx": "right_arm.rx",
+					"right_arm2.ry": "right_arm.ry",
+					"right_arm2.rz": "right_arm.rz",
+					"right_leg2.rx": "right_leg.rx",
+					"right_leg2.ry": "right_leg.ry",
+					"right_leg2.rz": "right_leg.rz",
+					"left_leg2.rx": "left_leg.rx",
+					"left_leg2.ry": "left_leg.ry",
+					"left_leg2.rz": "left_leg.rz"
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [1.85, -12, 0]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-1.85, -12, 0]
+		},
+		{
+			"part": "right",
+			"id": "right",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "left",
+			"id": "left",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "waist",
+			"id": "waist",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0]
+		}
+	]
+}
